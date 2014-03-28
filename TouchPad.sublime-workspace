@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			],
+			[
+				"com",
+				"command_node"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"comma",
+				"command_function"
+			],
+			[
+				"node",
+				"node_for_char"
+			],
+			[
+				"command",
+				"command_node"
+			],
+			[
+				"ram",
+				"ram_modify"
+			],
+			[
+				"prom",
+				"prom_modify"
+			],
+			[
+				"regi",
+				"register_modify"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TouchPad.cpp",
+			"settings":
+			{
+				"buffer_size": 1815,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/TouchPad/TouchPad.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/TouchPad/TouchPad",
+		"/Applications/Arduino.app/Contents/Resources/Java/hardware/teensy/cores/teensy3/usb_serial.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/TeensyARMMonitor/trees/io.c",
+		"/Users/firelizzard/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/firelizzard/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/MonitorInterface/trees/print.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/MonitorInterface/trees/print.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/commands.tree",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/generate/generate",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/print.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/commands.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/commands_tree.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/MonitorInterface/MonitorInterface.sublime-project",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/print.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/commands.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/commands_tree.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/Monitor.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/Monitor.cpp",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/test/main.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/print.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/commands.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/commands_tree.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/print.cpp",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/commands/commands.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/commands/commands.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/include/command_tree.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/include/types.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/include/commands.h",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/walk.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/trees/command_tree.c",
+		"/Users/firelizzard/Dropbox/Sharing/SharedMisc/Development/Arduino/Libraries/Monitor/Monitor.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hist",
+			"==",
+			"__node",
+			"parent",
+			"__tree_rammod ",
+			"__tree_rammod",
+			"execution",
+			"mo ",
+			"mo",
+			"'m'",
+			"    ",
+			"alloc",
+			"        ",
+			"tab",
+			"MonitorInterface",
+			"alloc",
+			"__tree_rm",
+			"trim",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			"\\t",
+			"TeensyARMMonitor"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TouchPad.cpp",
+					"settings":
+					{
+						"buffer_size": 1815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/firelizzard/Documents/Programming/Lens Flare/Agora/ws/ws-intro-client/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
